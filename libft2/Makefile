@@ -11,12 +11,11 @@ all: $(NAME)
 $(NAME):	$(OBJS)
 	ar	rcs	$(NAME)	$(OBJS)
 
-bonus: $(SRC) $(bonus_SRC)
-	cc	-I.	$(FLAGS)	-c	$^
-	ar rcs $(NAME) $^
+bonus: $(all_obj)
+	ar rcs $(NAME) $(all_obj)
 
-#%.o:	%.c
-#cc	-I.	$(FLAGS)	-o	$@	-c	$<
+%.o:	%.c
+	cc	-I.	$(FLAGS)	-o	$@	-c	$<
 	
 clean:
 	rm	-f	$(all_obj)
