@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "libftprintf.h": "c",
+        "tests.h": "c",
+        "unity.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "fcntl.h": "c",
+        "ft_printf.h": "c",
+        "stdint.h": "c"
+    }
+}
