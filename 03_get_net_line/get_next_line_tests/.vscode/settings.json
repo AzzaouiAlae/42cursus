@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "unity.c": "cpp",
+        "get_next_line.c": "cpp",
+        "tests.h": "c",
+        "unity.h": "c",
+        "fcntl.h": "c",
+        "get_next_line.h": "c",
+        "simple_test.c": "cpp",
+        "tests.c": "cpp",
+        "tests_fail_malloc.h": "c",
+        "unistd.h": "c"
+    },
+    "cmake.sourceDirectory": "/home/aazzaoui/Desktop/projects/get_next_line_tests/Unity-master"
+}

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/aazzaoui/Desktop/projects/get_next_line_tests/build",
+  "command": "/usr/bin/gcc -I/home/aazzaoui/Desktop/projects/get_next_line_tests/Unity-master/src -I/home/aazzaoui/Desktop/projects/get_next_line_tests/build -g -std=c11 -Waddress -Waggregate-return -Wformat-nonliteral -Wformat-security -Wformat -Winit-self -Wmissing-declarations -Wmissing-include-dirs -Wno-multichar -Wno-parentheses -Wno-type-limits -Wno-unused-parameter -Wunreachable-code -Wwrite-strings -Wpointer-arith -Werror -Wall -o CMakeFiles/unity.dir/src/unity.c.o -c /home/aazzaoui/Desktop/projects/get_next_line_tests/Unity-master/src/unity.c",
+  "file": "/home/aazzaoui/Desktop/projects/get_next_line_tests/Unity-master/src/unity.c",
+  "output": "CMakeFiles/unity.dir/src/unity.c.o"
+}
+]

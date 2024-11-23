@@ -1,0 +1,7 @@
+/home/aazzaoui/Desktop/projects/get_next_line_tests/build/CMakeFiles/unity.dir
+/home/aazzaoui/Desktop/projects/get_next_line_tests/build/CMakeFiles/edit_cache.dir
+/home/aazzaoui/Desktop/projects/get_next_line_tests/build/CMakeFiles/rebuild_cache.dir
+/home/aazzaoui/Desktop/projects/get_next_line_tests/build/CMakeFiles/list_install_components.dir
+/home/aazzaoui/Desktop/projects/get_next_line_tests/build/CMakeFiles/install.dir
+/home/aazzaoui/Desktop/projects/get_next_line_tests/build/CMakeFiles/install/local.dir
+/home/aazzaoui/Desktop/projects/get_next_line_tests/build/CMakeFiles/install/strip.dir
