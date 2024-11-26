@@ -2,7 +2,6 @@ flags	=	-Wall	-Werror	-Wextra	-std=c99
 
 f = -fsanitize=address
 unity = Unity-master/src/unity.c
-#mainFileName = main.c 
 
 SRC = $(wildcard ../ft_printf/*.c)
 SRC_libft = $(wildcard ../ft_printf/libft/*.c) 

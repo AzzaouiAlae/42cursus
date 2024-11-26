@@ -6,7 +6,7 @@
 #include <unistd.h>
 #include <sys/stat.h>
 #include <stdint.h>
-#include "../ft_printf_/ft_printf.h"
+#include "../ft_printf/ft_printf.h"
 # include "Unity-master/src/unity.h"
 #include "ft_printf_to_str.c"
 #include "Hex_Tests.c"
@@ -18,13 +18,13 @@
 #include "Percent_tests.c"
 /*
 # include "Unity-master/src/unity.c"
-#include "../ft_printf_/ft_printf.c"
-#include "../ft_printf_/ft_check_format.c"
-#include "../ft_printf_/ft_print_char.c"
-#include "../ft_printf_/ft_print_hex.c"
-#include "../ft_printf_/ft_print_str.c"
-#include "../ft_printf_/ft_putnbr.c"
-#include "../ft_printf_/ft_putunbr.c"
+#include "../ft_printf/ft_printf.c"
+#include "../ft_printf/ft_check_format.c"
+#include "../ft_printf/ft_print_char.c"
+#include "../ft_printf/ft_print_hex.c"
+#include "../ft_printf/ft_print_str.c"
+#include "../ft_printf/ft_putnbr.c"
+#include "../ft_printf/ft_putunbr.c"
 */
 void setUp(void)
 {

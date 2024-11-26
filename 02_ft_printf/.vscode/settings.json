@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "str_tests.c": "cpp",
+        "char_tests.c": "cpp"
+    }
+}
